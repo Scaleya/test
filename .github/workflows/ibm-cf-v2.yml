@@ -67,7 +67,7 @@ jobs:
           },
           "inbounds": [
             {
-              "port": 8443,
+              "port": 8080,
               "protocol": "vless",
               "settings": {
                 "decryption": "none",
