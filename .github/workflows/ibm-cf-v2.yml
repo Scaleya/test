@@ -74,7 +74,7 @@ jobs:
                 "clients": [
                   {
                     "id": "${V2_UUID}",
-                    "flow":"xtls-rprx-origin"
+                    "flow": "xtls-rprx-origin"
                   }
                 ]
               },
